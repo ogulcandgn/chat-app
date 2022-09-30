@@ -1,2 +1,2 @@
 # chat-app
-React-tailwind
+Bu projede React.js kullanılmıştır. Css framework olarakda Tailwind kullanılmıştır.
